@@ -85,7 +85,7 @@ function displayInventory() {
     })
 }
 
-// displayLowInventory will display a list of products with the available quantity below 100
+//  will display a list of products with the available quantity below 10
 function displayLowInventory() {
     queryStr = 'SELECT * FROM products WHERE stock_quantity < 10';
 
