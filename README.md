@@ -9,7 +9,7 @@ Build an inventory and make a purchase as a customer!
 # User Guide
 <a href="https://drive.google.com/file/d/1L6n4PgLdLB94fLTnuV3eV5MgKj8tkmRF/view
 " target="_blank"><img src="./screenShot.png" 
-alt="bamazon app" width="400" height="180" border="10" /></a>
+alt="bamazon app" width="300" height="180" border="10" /></a>
 
 Here's how it works:
 
